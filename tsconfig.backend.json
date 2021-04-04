@@ -8,5 +8,5 @@
         "baseUrl": "./",
         "incremental": true
     },
-    "exclude": ["frontend"]
+    "exclude": ["frontend", "backend/dist"]
 }
