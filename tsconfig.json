@@ -9,6 +9,6 @@
         "experimentalDecorators": true,
         "emitDecoratorMetadata": true
     },
-    "include": ["backend/", "frontend/"],
+    "include": ["backend/", "frontend/", "shared/"],
     "exclude": ["node_modules"]
 }
